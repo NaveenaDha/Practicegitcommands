@@ -11,15 +11,11 @@ public class PragramFile {
         double c = a * b;
         System.out.println("The addition of given values is " + c);
         }
-        
-        
-        
-        
             public static void main(String[] args) {
         
                 PragramFile mainclass = new PragramFile();
                 
-               mainclass.add(3, 6);
+               mainclass.add(3, 8);
                mainclass.add(3.4, 5.6); 
                 
             }
