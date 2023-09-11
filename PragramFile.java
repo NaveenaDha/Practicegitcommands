@@ -16,7 +16,7 @@ public class PragramFile {
                 PragramFile mainclass = new PragramFile();
                 
                mainclass.add(3, 8);
-               mainclass.add(3.4, 5.6); 
+               mainclass.add(3.4, 5.3); 
                 
             }
         
